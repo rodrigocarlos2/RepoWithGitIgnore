@@ -9,5 +9,5 @@
 
 * Sintax to insert files in GitIgnore: 
 
-Filename.extension
-\Folder\
+> Filename.extension
+> \Folder\
